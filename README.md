@@ -3,8 +3,6 @@
 ## Overview
 StatMan is a Java application for tracking pitcher performance and game-level pitching statistics. It includes both a command-line version and a Swing-based GUI for recording outcomes, updating player stats, and saving results to text files.
 
-This is one of my strongest portfolio projects because it combines programming with baseball in a practical way.
-
 ## What It Does
 - Tracks pitching stats for individual players
 - Records pitch results such as strikes, balls, hits, and first-pitch strikes
