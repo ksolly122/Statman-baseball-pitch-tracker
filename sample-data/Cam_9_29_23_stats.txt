@@ -1,0 +1,16 @@
+Player: Cam_9_29_23
+Total Pitches: 26
+Strikes: 18
+Balls: 8
+Two of Three Strikes: 4
+Two-Strike Execution: 2
+Batter Out Under 5 Pitches: 5
+Strikeouts: 2
+Walks: 0
+Four-Pitch Walks: 0
+Two-Out Walks: 0
+0-2 Walks: 0
+Hits: 2
+Stolen Bases: 0
+Wild Pitches: 0
+First Pitch Strikes: 4

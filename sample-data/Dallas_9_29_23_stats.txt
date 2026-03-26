@@ -1,0 +1,16 @@
+Player: Dallas_9_29_23
+Total Pitches: 38
+Strikes: 20
+Balls: 18
+Two of Three Strikes: 4
+Two-Strike Execution: 3
+Batter Out Under 5 Pitches: 5
+Strikeouts: 3
+Walks: 3
+Four-Pitch Walks: 2
+Two-Out Walks: 0
+0-2 Walks: 0
+Hits: 2
+Stolen Bases: 3
+Wild Pitches: 0
+First Pitch Strikes: 2
